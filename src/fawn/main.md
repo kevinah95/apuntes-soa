@@ -14,7 +14,7 @@ Arquitectura de clúster para computación de datos intensiva y de **bajo consum
 
 # Arquitectura FAWN-KV
 
-![Arquitectura FAWN-KV](src/fawn/images/FAWN-KV_Architecture.png){ width=250px }  
+![Arquitectura FAWN-KV](images/FAWN-KV_Architecture.png){ width=250px }  
 
 # Arquitectura FAWN-KV —cont.
 
@@ -26,7 +26,7 @@ Arquitectura de clúster para computación de datos intensiva y de **bajo consum
 
 # Arquitectura FAWN-KV —cont.
 
-![Interfaces FAWN-KV](src/fawn/images/FAWN-KV.png){ width=250px }  
+![Interfaces FAWN-KV](images/FAWN-KV.png){ width=250px }  
 
 # Arquitectura FAWN-KV —cont.
 
@@ -58,4 +58,4 @@ Arquitectura de clúster para computación de datos intensiva y de **bajo consum
 
 # Replicación y consistencia —cont.
 
-![Ciclo de vida de una operación *“put”* con replicación de cadena](src/fawn/images/put-lifecycle.png){ width=250px }  
+![Ciclo de vida de una operación *“put”* con replicación de cadena](images/put-lifecycle.png){ width=250px }  
