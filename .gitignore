@@ -1,2 +1,2 @@
-out/*.pdf
-out/*.tex
+out/**/*.pdf
+out/**/*.tex
