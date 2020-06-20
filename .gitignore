@@ -1,2 +1,3 @@
 out/**/*.pdf
+!out/SOA200621-3.pdf
 out/**/*.tex
